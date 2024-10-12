@@ -1,2 +1,2 @@
-# Llama3
-Testing Llama3
+# Llama
+An LLM service based on Llama3 on CPU.
